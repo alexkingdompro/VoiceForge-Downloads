@@ -36,7 +36,7 @@
 
 Все сборки: [Releases](https://github.com/alexkingdompro/VoiceForge-Downloads/releases).
 Об ошибках можно сообщать в [Issues](https://github.com/alexkingdompro/VoiceForge-Downloads/issues)
-или автору: [@alexkingdompro](https://t.me/alexkingdompro).
+Автор: @alexkingdompro.
 
 Этот репозиторий содержит готовые сборки и инструкции. Исходный код приложения здесь не публикуется.
 Лицензии используемых компонентов находятся внутри приложения в Contents/Resources.
