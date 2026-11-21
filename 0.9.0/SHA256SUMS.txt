@@ -1,0 +1,2 @@
+b20a03b583397fd5181cf69bae51bd1a4cf4d181ed4895e9b67d49cbcf10e0b0  VoiceForge-0.9.0-AppleSilicon.dmg
+aacbba280aa8e6bc84e8d8ebef0bd84d79bf59af611974d2348874d05b707a6b  VoiceForge-0.9.0-AppleSilicon.zip
