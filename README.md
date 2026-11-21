@@ -2,16 +2,16 @@
 
 **Быстрая обработка голоса. Бесплатное скачивание.**
 
-## [⬇ Скачать VoiceForge для Mac](https://github.com/alexkingdompro/VoiceForge-Downloads/releases/latest/download/VoiceForge-AppleSilicon.zip)
+## [⬇ Скачать VoiceForge для Mac](https://github.com/alexkingdompro/VoiceForge-Downloads/releases/download/v0.9.0/VoiceForge-0.9.0-AppleSilicon.dmg)
 
-Версия 0.8.0, сборка 16 · ZIP около 23 МБ.
+Версия 0.9.0, сборка 20 · DMG около 26 МБ. [Скачать ZIP](https://github.com/alexkingdompro/VoiceForge-Downloads/releases/latest/download/VoiceForge-AppleSilicon.zip).
 
 **Требования:** Mac с Apple Silicon (M1, M2, M3 или новее), macOS 14 или новее.
 Эта сборка не предназначена для Intel Mac или Windows.
 
 ## Установка
 
-1. Скачайте ZIP по кнопке выше и распакуйте его.
+1. Скачайте и откройте DMG. Если вы скачали ZIP, распакуйте его.
 2. Перенесите **VoiceForge.app** в папку **Программы**.
 3. Откройте приложение. При обновлении сначала полностью закройте старую версию через **⌘Q**.
 
